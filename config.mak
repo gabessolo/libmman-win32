@@ -1,0 +1,12 @@
+BUILD_STATIC=yes
+BUILD_SHARED=no
+BUILD_MSVC=no
+CC=g++
+TARGETS=
+INSTALL=
+SHFLAGS=
+AR=ar
+RANLIB=ranlib
+DESTDIR=.
+libdir=lib
+bindir=.
